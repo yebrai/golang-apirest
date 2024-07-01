@@ -13,12 +13,11 @@ This is a simple REST API built with Go. It provides basic CRUD operations for m
 ### Project Structure
 
 ├── main.go
+
 ├── handlers
+
 │ └── todo.go
 └── go.mod
-
-bash
-Copiar código
 
 ### Installation
 
